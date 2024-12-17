@@ -1,0 +1,62 @@
+"Phrases"
+{
+	"Objective Has Changed"
+	{
+		"chi"	"任务已变更，请重新打开菜单"
+	}
+
+	"Softlock Vote Success"
+	{
+		"chi"	"已在初始位置处生成克隆体"
+	}
+
+	"Softlock Vote Description"
+	{
+		"chi"	"克隆丢失的任务物品"
+	}
+
+	"Hit Recovery Limit"
+	{
+		"chi"	"此任务物品克隆次数已达上限"
+	}
+
+	"No Items"
+	{
+		"chi"	"没有任务物品需要恢复"
+	}
+
+	"Softlock Panel Title"
+	{
+		"chi"	"循环显示可用的任务物品"
+	}
+
+	"Softlock Panel Next"
+	{
+		"chi"	"下一个"
+	}
+
+	"Softlock Panel Prev"
+	{
+		"chi"	"上一个"
+	}
+
+	"Softlock Panel Recover Hint"
+	{
+		"chi"	"找到目标物品后，投票恢复它"
+	}
+
+	"Softlock Panel Recover"
+	{
+		"chi"	"投票恢复"
+	}
+
+	"Softlock Panel Exit"
+	{
+		"chi"	"退出"
+	}
+
+	"Objective Skip"
+	{
+		"chi"	"检测到跳过任务，正在尝试修正任务链.."
+	}
+}
